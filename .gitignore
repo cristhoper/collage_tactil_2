@@ -1,0 +1,5 @@
+.micropythonrc
+.vscode
+.micropy
+micropy.json
+dev-requirements.txt
